@@ -1035,7 +1035,7 @@ const db: dbType = {
           profile_url: [
             {
               platform: "facebook",
-              url: "https://www.facebook.com/kt.prodhan/",
+              url: "https://www.facebook.com/nafeprodhan/",
             },
             { platform: "web", url: "https://portfolio-of-nafe.web.app/" },
           ],
@@ -1043,8 +1043,8 @@ const db: dbType = {
           dept: "Web & App Development",
           group: 6,
           roll: 12406106,
-          email: "ktprodhan@gmail.com",
-          phone: "+88 01818993307",
+          email: "nafeprodhan@gmail.com",
+          phone: "+88 01887433971",
         },
 
         {
