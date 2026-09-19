@@ -97,7 +97,7 @@ const BlogPost = async ({ params }: { params: Promise<ParamType> }) => {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
-      <article className={`${inter.className} mx-auto w-full max-w-3xl px-4`}>
+      <article className={`${inter.className} mx-auto w-full max-w-5xl px-4`}>
         {/* Breadcrumb */}
         <nav className="mb-6 text-sm text-gray-500">
           <Link href="/" className="hover:text-blue-600">
